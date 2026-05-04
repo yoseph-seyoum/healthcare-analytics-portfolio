@@ -14,3 +14,9 @@ Projects:
 - Evaluated labor efficiency across departments using hours and cost per encounter
 - Identified ICU as the most resource-intensive department
 - Developed comparative analysis using PivotTables and charts
+
+3. Healthcare Patient Funnel Analysis
+- Analyzed patient flow across scheduling, check-in, treatment, and payment stages
+- Calculated conversion rates to identify drop-offs in the care process
+- Identified treatment stage as the primary bottleneck in patient progression
+- Provided data-driven recommendations to improve operational throughput
